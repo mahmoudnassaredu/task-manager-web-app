@@ -1,0 +1,15 @@
+
+{
+  "name": "task-manager-backend",
+  "version": "1.0.0",
+  "description": "A simple Node.js API connected to PostgreSQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
+
